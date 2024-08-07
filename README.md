@@ -1,4 +1,4 @@
-software Billing with DataBase
+Billing Software with DataBase
 
 Description: Developed a comprehensive billing software application using Java Swing AWT for graphical user interface components. 
 This software is used in retail environments such as Dmart, Big Bazaar, Dominos, and shopping malls, providing both administrative and sales functionalities.
